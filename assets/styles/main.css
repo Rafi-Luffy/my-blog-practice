@@ -9,7 +9,7 @@ body {
   padding: 10px;
 }
 
-.footer {
-  background-color: #f8f9fa;
+.footer a {
+  color: #007bff;
+  text-decoration: none;
 }
-

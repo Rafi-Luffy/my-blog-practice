@@ -1,2 +1,3 @@
-# my-blog-practice
-This repo is for demonstration purposes only.
+## Documentation
+
+[Installation Guide](https://github.com/<your-username>/my-blog-practice/wiki/Installation)

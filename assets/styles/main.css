@@ -8,3 +8,8 @@ body {
   color: black;
   padding: 10px;
 }
+
+.footer a {
+  color: #007bff;
+  text-decoration: none;
+}
